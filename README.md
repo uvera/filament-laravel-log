@@ -9,6 +9,7 @@
 
 # Features
 
+- Supports Filament 4.x and 5.x
 - Syntax highlighting
 - Light/ Dark mode
 - Quickly jump between start and end of the file
@@ -30,7 +31,7 @@ composer require saade/filament-laravel-log:^3.0
 <br>
 
 > [!IMPORTANT]
-> If you have not set up a custom theme and are using Filament Panels follow the instructions in the [Filament Docs](https://filamentphp.com/docs/4.x/styling/overview#creating-a-custom-theme) first.
+> If you have not set up a custom theme and are using Filament Panels follow the instructions in the [Filament Docs](https://filamentphp.com/docs/5.x/styling/overview#creating-a-custom-theme) first.
 
 After setting up a custom theme add the plugin's views to your theme css file or your app's css file if using the standalone packages.
 
